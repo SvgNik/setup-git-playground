@@ -1,0 +1,13 @@
+{
+  "name": "setup-git-playground",
+  "version": "1.0.0",
+  "description": "Учебный репозиторий для блока Setup + Git.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check-node": "node -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
