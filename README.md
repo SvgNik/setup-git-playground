@@ -1,10 +1,5 @@
-# setup-git-playground
+## Usage
 
-Этот проект синхронизирован с Github
-
-Этот репозиторий используется для тренировки setup и Git-базы.
-
-Здесь я тренирую:
-- работу с терминалом
-- базовую навигацию по проекту
-- базовый Git/GitHub workflow
+1. Open the project folder in VS Code
+2. Run scripts with npm
+3. Track changes with Git
